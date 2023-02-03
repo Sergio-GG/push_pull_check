@@ -1,1 +1,1 @@
-Hello world for Github repositore
+Hello world for Github repository
